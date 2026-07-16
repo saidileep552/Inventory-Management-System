@@ -14,7 +14,7 @@ class Item:
             self.quantity -= amount
             print(f"{amount} items removed don't worry.")
         else:
-            print("Insufficient stock need to bring.")
+            print("Insufficient stock need to restock asap.")
 
     def display(self):
         print("\nItem ID :", self.item_id)
