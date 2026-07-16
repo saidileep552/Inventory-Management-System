@@ -14,6 +14,6 @@ This project is developed using Python for warehouse inventory.
 - Low Stock Reminder
 - Inheritance
 
-# Language I used 
+### Language I used 
 
 Python
