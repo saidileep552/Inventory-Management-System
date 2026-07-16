@@ -1,0 +1,12 @@
+FOOD ITEM
+
+Item ID : 101
+Item Name : Rice
+Quantity : 10
+5 items added .
+8 items removed don't worry.
+
+Item ID : 101
+Item Name : Rice
+Quantity : 7
+Reminder: Stock is running low. Please restock sai.
