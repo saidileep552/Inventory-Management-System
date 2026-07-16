@@ -28,9 +28,6 @@ class Item:
 class FoodItem(Item):
     pass
 
-class ElectronicItem(Item):
-    pass
-
 # Object:
 
 food = FoodItem(101, "Rice", 10)
