@@ -17,7 +17,7 @@ class Item:
             print("Insufficient stock need to restock asap.")
 
     def display(self):
-        print("\nItem ID :", self.item_id)
+        print("Item ID :", self.item_id)
         print("Item Name :", self.name)
         print("Quantity :", self.quantity)
 
